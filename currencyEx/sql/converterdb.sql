@@ -127,8 +127,8 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`) VALUES
-(1, 'gentledivert@gmail.com', '673d4f049f0db3d188488f447477968a'),
-(2, 'davidwolch02@gmail.com', '8fa14cdd754f91cc6554c9e71929cce7'),
+(1, 'manonman@gmail.com', '673d4f049f0db3d188488f447477968a'),
+(2, 'weknowman@gmail.com', '8fa14cdd754f91cc6554c9e71929cce7'),
 (3, 'akongnwi02@gmail.com', 'f970e2767d0cfe75876ea857f92e319b'),
 (4, 'd@c.com', 'f970e2767d0cfe75876ea857f92e319b'),
 (5, 'd@c', 'bd1d7b0809e4b4ee9ca307aa5308ea6f'),
